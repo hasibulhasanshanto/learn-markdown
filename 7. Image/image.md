@@ -9,8 +9,8 @@
 
 <br>
 
-![Google Maps](apple.png "Apple Store")
+![Google Maps](/apple.png "Apple Store")
 
 <p align="center">
-<img src="../google-map.png" alt="Google Map Logo" width="50" title="Google Map Logo">
+<img src="/../google-map.png" alt="Google Map Logo" width="50" title="Google Map Logo">
 <p>
