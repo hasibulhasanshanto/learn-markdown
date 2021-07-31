@@ -174,10 +174,10 @@ __[Google](https://google.com "Title Text")__
 
 <br>
 
-![Google Maps](apple.png "Apple Store")
+![Apple Store](apple.png "Apple Store")
 
 <p align="center">
-<img src="../google-map.png" alt="Google Map Logo" width="50" title="Google Map Logo">
+<img src="google-map.png" alt="Google Map Logo" width="50" title="Google Map Logo">
 <p>
 
 <br>
@@ -254,3 +254,8 @@ To display an image we use `<img>` tag <br>
 <br>
 
 # 10. Check Box
+
+- [ ] Checkbox One
+
+- [x] Check Checkbox
+- [ ] Uncheck Checkbox
