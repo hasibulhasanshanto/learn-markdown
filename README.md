@@ -2,7 +2,7 @@
 # LEARNING MARKDOWN A-Z
 <br>
 
-## Headings
+# 1. Headings
 
 # Heading 1
 ## Heading 2
@@ -21,7 +21,7 @@ This is example of Heading 1
 This is example of Heading 2
 ----------------------------   
 
-## Paragraphs
+# 2. Paragraphs
 
 <p align="left">
 <b>Left</b> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate accusamus debitis praesentium quo esse ea labore maxime veniam nulla hic.
@@ -45,3 +45,28 @@ This is example of Heading 2
 
 
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, ipsam debitis? Magni quos totam eius culpa laudantium perspiciatis porro hic ex, veniam, autem, maiores unde illo neque sed explicabo sapiente maxime ab tempora quidem rerum.
+
+<br>
+<br>
+
+# 3. Text Formatting
+
+**This is a Bold Text**
+
+__This is another Bold Text__
+
+*This is a Italic Text*
+
+_This is another Italic Text_
+
+This is modern **WO**rld. But **Karim** & __Rahim__ has no mobile.
+
+***This is a Bold Italic Text***
+
+___This is abother Bold Italic Text___
+
+_**This is abother Bold Italic Text**_
+
+**_This is abother Bold Italic Text_**
+
+~~Strikethrough Text~~
