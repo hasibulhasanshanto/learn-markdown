@@ -70,3 +70,27 @@ _**This is abother Bold Italic Text**_
 **_This is abother Bold Italic Text_**
 
 ~~Strikethrough Text~~
+
+<br>
+<br>
+
+# 4. Blockquotes
+
+> This is a Example blockquotes 
+>
+>> HTML <br>
+>> CSS <br>
+>> JAVASCRIPT <br>
+>>> TUTORIAL PROJECT  <br>
+>>> CLOCK PROJECT  <br>
+> 
+
+> So enjoy now.
+
+> So enjoy now again.
+
+
+<br>
+<br>
+
+# 5. List Item
