@@ -367,3 +367,22 @@ merge branch shanto with main
 ```
 git merge shanto
 ```
+
+<br>
+<br>
+
+# 15. Escaping
+
+\- I want to escape this
+
+\* I want to escape this
+
+\# I want to escape this Heading
+
+\\* I want to escape this
+
+[comment]: <> (This is a comment)
+
+[//]: <> (This is another comment)
+
+[//]: # (This will all suppor in github, gitlab, bitbucket etc)
