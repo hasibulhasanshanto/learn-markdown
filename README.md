@@ -259,3 +259,18 @@ To display an image we use `<img>` tag <br>
 
 - [x] Check Checkbox
 - [ ] Uncheck Checkbox
+
+<br>
+<br>
+
+# 11. Collapseable Item
+
+<details>
+    <summary>Summary Text</summary>
+
+    ## Summary Title
+    
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur dignissimos repudiandae esse ex! Magni labore odit facere ratione itaque blanditiis!
+</details>
+
+# 12. Emoji
