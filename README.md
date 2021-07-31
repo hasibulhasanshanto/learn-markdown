@@ -274,3 +274,19 @@ To display an image we use `<img>` tag <br>
 </details>
 
 # 12. Emoji
+
+### [Imoji link](https://github.com/ikatyang/emoji-cheat-sheet)
+
+:relieved:
+
+:star_struck:
+
+:heart:
+
+:grinning:
+
+:zzz:
+
+:speech_balloon:
+
+:thought_balloon:
