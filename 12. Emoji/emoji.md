@@ -13,3 +13,5 @@
 :speech_balloon:
 
 :thought_balloon:
+
+To copy <kbd>CTRL</kbd> + <kbd>C</kbd>
